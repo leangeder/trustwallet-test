@@ -1,0 +1,9 @@
+.*
+!terraform/*.tf
+!Dockerfile
+!README.md
+!go.mod
+!go.sum
+!main.go
+!.dockerignore
+!.gitignore
